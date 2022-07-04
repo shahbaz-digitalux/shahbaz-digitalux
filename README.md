@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <div>
 <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" >
-<img align="right"  src="https://count.getloli.com/get/@:shahbaz">
+<img align="right"  src="https://count.getloli.com/get/@:shahbaz_digitalux">
 </div>
 
 <br><br><br><br><br><br><br>
@@ -90,7 +90,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 
-<a href="https://github.com/shahbazhassan42000/shahbazhassan42000/issues/1#issuecomment-new"><img src="./assets/images/guestbook.svg"></a> 
+<a href="https://github.com/shahbaz-digitalux/shahbaz-digitalux/issues/1#issuecomment-new"><img src="./assets/images/guestbook.svg"></a> 
 
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -108,17 +108,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shahbazhassan42000&show_icons=true&theme=merko">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shahbazhassan42000&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=shahbaz-digitalux&show_icons=true&theme=merko">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shahbaz-digitalux&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 <p align="center">
-<a href="https://github.com/shahbazhassan42000/AdGuard-WireGuard-Unbound-Cloudflare">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazhassan42000&layout=compact&theme=merko">
- </p>
+<a href="https://github.com/shahbaz-digitalux/AdGuard-WireGuard-Unbound-Cloudflare">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-digitalux&layout=compact&theme=merko">
+</a>
+</p>
 <p align="center">
- <a href="https://github.com/shahbazhassan42000?tab=repositories&sort=stargazers">
- <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shahbazhassan42000"/></a><a href="https://github.com/trinib?tab=followers"><a href="https://github.com/shahbazhassan42000?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shahbazhassan42000?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+ <a href="https://github.com/shahbaz-digitalux?tab=repositories&sort=stargazers">
+ <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shahbaz-digitalux"/>
+</a>
+<a href="https://github.com/shahbaz-digitalux?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shahbaz-digitalux?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+</a>
 </p>
 
   
@@ -126,7 +130,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<img src="https://raw.githubusercontent.com/shahbazhassan42000/shahbazhassan42000/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/shahbaz-digitalux/shahbaz-digitalux/output/github-contribution-grid-snake.svg" width="100%">
 </p>
   
   
@@ -134,7 +138,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
 <p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/shahbazhassan42000/shahbazhassan42000/main/github-metrics.svg">
+<img src="https://raw.githubusercontent.com/shahbaz-digitalux/shahbaz-digitalux/main/github-metrics.svg">
 </p>
 </details>
 
