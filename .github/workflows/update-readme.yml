@@ -15,7 +15,7 @@ jobs:
         with:
           committer_message: update
           token: ${{ secrets.MY_TOKEN }}
-          user: shahbazhassan42000
+          user: shahbaz-digitalux
           base: header, activity, repositories
           plugin_fortune: yes
           plugin_introduction: yes
